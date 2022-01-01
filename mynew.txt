@@ -2,3 +2,4 @@ this is my file
 this is file created in local repo
 this is file created in local repo
 this is file created in local repo newline
+this is file created in local repo newline remote edit
