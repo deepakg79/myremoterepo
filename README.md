@@ -1,2 +1,0 @@
-# myremoterepo
-my remote repository
