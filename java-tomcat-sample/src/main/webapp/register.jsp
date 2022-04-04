@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Register Form in April 2022</h1>
-<form action="register_2" method="post">
+<form action="app_register" method="post">
 			<table style="with: 50%">
 				<tr>
 					<td>First Name</td>

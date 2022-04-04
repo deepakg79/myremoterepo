@@ -30,7 +30,7 @@ public class app_register extends HttpServlet {
 		}
 		else
 		{
-			RequestDispatcher req = request.getRequestDispatcher("register_3.jsp");
+			RequestDispatcher req = request.getRequestDispatcher("register_2.jsp");
 			req.forward(request, response);
 		}
 	}
